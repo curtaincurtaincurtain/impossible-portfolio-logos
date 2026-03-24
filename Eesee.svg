@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <link href="/favicon.ico" rel="icon" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <!-- Start Google Tag Manager -->
+  <script defer>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js',
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NC4VKVH');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- Standard metadata tags -->
+  <title>eesee | Launchpad</title>
+  <meta
+    content="The platform that accelerates sales, provides additional trading volume and lowers cost barrier to enter the market. Tailored for digital assets, tokens and RWAs."
+    name="description"
+  />
+  <!-- End standard metadata tags -->
+  <!-- Facebook tags -->
+  <meta content="eesee.io" property="og:site_name" />
+  <meta content="website" property="og:type" />
+  <meta content="https://i.ibb.co/BNbWf9r/Frame-1535223567.png" property="og:image" />
+  <meta content="eesee | Launchpad" property="og:title" />
+  <meta
+    content="The platform that accelerates sales, provides additional trading volume and lowers cost barrier to enter the market. Tailored for digital assets, tokens and RWAs."
+    property="og:description"
+  />
+  <!-- End Facebook tags -->
+  <!-- Twitter tags -->
+  <meta content="eesee_io" name="twitter:creator" />
+  <meta content="https://i.ibb.co/BNbWf9r/Frame-1535223567.png" property="twitter:image" />
+  <meta content="summary_large_image" name="twitter:card" />
+  <meta content="eesee | Launchpad" name="twitter:title" />
+  <meta
+    content="The platform that accelerates sales, provides additional trading volume and lowers cost barrier to enter the market. Tailored for digital assets, tokens and RWAs."
+    name="twitter:description"
+  />
+  <!-- End Twitter tags -->
+  <link href="/logo192.png" rel="apple-touch-icon" />
+  <link href="/manifest.json" rel="manifest" />
+
+  <style>
+    img[src=''] {
+      visibility: hidden;
+    }
+  </style>
+  <script type="module" crossorigin src="/assets/index-DS2E5_LD.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/vendor-CPLbtI8W.js">
+  <link rel="modulepreload" crossorigin href="/assets/@mixpanel-browser-BANfZ3CR.js">
+  <link rel="modulepreload" crossorigin href="/assets/@react-virtuoso-DbT_7_A8.js">
+  <link rel="stylesheet" crossorigin href="/assets/index-q8nOS5rb.css">
+<link rel="manifest" href="/manifest.webmanifest"></head>
+<body>
+<div id="root"></div>
+<div id="datepicker-portal"></div>
+</body>
+</html>
